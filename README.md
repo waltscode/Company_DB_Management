@@ -22,11 +22,6 @@ GIVEN a command-line application that accepts user input.
 - WHEN I choose to update an employee role, THEN I am prompted to select an employee to update and their new role and this information is updated in the database. 
 ```
 
-## Link To Demonstration Of Application: 
-
-https://youtu.be/nBX-NAe4r4c 
-
-
 ## Screenshot of Application: 
 
 ![Alt text](image.png)
@@ -38,3 +33,7 @@ https://youtu.be/nBX-NAe4r4c
 ## Link To GitHub Repository: 
 
 
+
+## Link To Demonstration Of Application: 
+
+https://youtu.be/nBX-NAe4r4c 
